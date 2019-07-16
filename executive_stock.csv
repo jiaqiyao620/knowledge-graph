@@ -1,4 +1,4 @@
-﻿from_id,property1,to_id,relation,
+name,role,stock,relation,
 杜玉岱,董事长/董事,赛轮金宇,employ_of,
 延万华,副董事长/董事,赛轮金宇,employ_of,
 宋军,董事,赛轮金宇,employ_of,
